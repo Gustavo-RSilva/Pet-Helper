@@ -8,4 +8,5 @@ Com o PetHelper, queremos facilitar a vida de quem ama animais e também ajudar 
 <li>Indicação de pet shops e mercados próximos para suprimentos.</li>
 <li>Além disso, promovemos a conexão entre ONGs, veterinários e tutores, criando uma rede de apoio para melhorar a vida dos animais.</li>
 </ul>
+<br>
 Nosso objetivo é ser mais do que um aplicativo, queremos ser a ponte entre pessoas e animais. Com o PetHelper, todos têm a chance de fazer a diferença. Vamos juntos transformar a realidade dos nossos pets e criar um futuro mais acolhedor para eles. Obrigado!"
